@@ -1,0 +1,70 @@
+# .github/workflows/update_playlist.yml
+
+name: Update Filtered Playlist
+
+on:
+  schedule:
+    # Jalankan setiap 5 menit
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Memungkinkan menjalankan workflow secara manual dari tab Actions
+
+jobs:
+  update_playlist_job:
+    runs-on: ubuntu-latest # Menggunakan runner Linux terbaru yang disediakan GitHub
+
+    # Memberikan izin ke workflow untuk menulis (commit & push) ke repositori
+    permissions:
+      contents: write
+
+    # Output dari job ini, agar bisa diakses jika diperlukan di job lain (meski di sini tidak)
+    outputs:
+      playlist_changed: ${{ steps.run_scraper.outputs.playlist_changed }}
+
+    steps:
+      # Langkah 1: Checkout kode dari repositori Anda ke runner
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Menggunakan versi terbaru dari action checkout
+
+      # Langkah 2: Set up environment Python
+      - name: Set up Python
+        uses: actions/setup-python@v5 # Menggunakan versi terbaru dari action setup-python
+        with:
+          python-version: '3.10' # Anda bisa pilih versi Python lain jika perlu
+
+      # Langkah 3: Install dependencies yang dibutuhkan oleh skrip Python
+      - name: Install dependencies
+        run: pip install requests # Hanya requests yang kita butuhkan berdasarkan skrip sebelumnya
+
+      # Langkah 4: Jalankan skrip Python scraper Anda
+      - name: Run scraper script
+        id: run_scraper # Memberi ID pada step ini agar bisa mengambil outputnya
+        # Pastikan path dan nama skrip Python Anda benar
+        # Jika sc.py ada di root:
+        run: python sc.py
+        # Jika sc.py ada di dalam folder 'scripts':
+        # run: python scripts/sc.py
+      
+      # Langkah 5: Commit dan push file playlist jika ada perubahan
+      - name: Commit and push if playlist changed
+        # Hanya jalankan step ini jika output 'playlist_changed' dari step 'run_scraper' adalah 'true'
+        if: steps.run_scraper.outputs.playlist_changed == 'true'
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "action@github.com"
+          
+          # Pastikan nama file output di sini sama dengan OUTPUT_FILENAME di skrip Python Anda
+          # dan sama dengan yang didefinisikan di env di bawah (jika digunakan)
+          git add filtered_playlist.m3u 
+          
+          # Hanya commit jika benar-benar ada perubahan yang di-stage
+          if ! git diff --staged --quiet; then
+            # Membuat pesan commit dengan timestamp UTC
+            git commit -m "Update filtered playlist - $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+            echo "Playlist updated and pushed to repository."
+          else
+            echo "No actual changes detected in filtered_playlist.m3u to commit."
+          fi
+        # Anda bisa juga mendefinisikan nama file output sebagai environment variable di sini
+        # env:
+        #   OUTPUT_FILENAME: filtered_playlist.m3u
