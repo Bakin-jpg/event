@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Compagnucci T / Guerrieri A VS Coppejans K / Roca Batalla O - 19:35 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612327
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Arnaboldi F / Pellegrino A VS Bondioli F / Romano F - 20:15 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21600544
@@ -14,6 +11,15 @@ https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21597162
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Cecchinato M VS Monteiro T - 18:53 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21594926
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Linette M VS Jacquemot E - 20:55 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21590957
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Kudermetova V VS Zhu Lin - 20:38 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21590961
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Bouzas Maneiro J VS Seidel E - 19:55 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21590929
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Draper J VS Baez S - 20:45 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21590869
@@ -53,39 +59,27 @@ https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21590859
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Rinderknech A VS Zverev A - 19:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21590895
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Kudermetova V VS Zhu Lin - 20:38 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21590961
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Bouzas Maneiro J VS Seidel E - 19:55 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21590929
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Moacho P / Moura B VS Leote Prata V / Morais D - 20:30 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612932
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Pinho T / Silva T VS Martinez A / Oliveira B - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21609971
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Araujo P / Luis T VS Augunas J / Portugal J - 19:45 WIB 2025-07-01
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Lokoli L VS Lynch A - 20:10 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21607800
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21608233
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Saitoh Keisuke VS Milavsky D - 20:10 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21608739
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", George B T VS Martin Dan - 20:10 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21608738
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Lokoli L VS Lynch A - 20:10 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21608233
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Martineau M VS Paire B - 19:59 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21597155
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Trungelliti M VS Bax F - 19:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21598115
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Ymer M VS Brunold M - 18:20 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21606657
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Bivol M / Pilet C VS Hussey G / Story J - 19:55 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21609994
@@ -98,54 +92,51 @@ https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21606679
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Akli A VS Gailis R - 19:30 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21609179
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Yamalapalli S VS Crossley M - 19:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21609467
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Sonobe W VS Day K - 19:30 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21609177
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Jokic K VS Arconada U-M - 19:30 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21609176
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Tennis", Yamalapalli S VS Crossley M - 19:30 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21609467
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", NK Radomlje VS Dinamo Zagreb - 20:15 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605265
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", GAK VS Vojvodina Novi Sad - 20:00 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21607190
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", Olimpija Ljubljana VS Vllaznia Shkoder - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21610871
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", CSKA Moscow VS Partizan Beograd - 20:00 WIB 2025-07-01
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", GAK VS Vojvodina Novi Sad - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21599981
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", Iberia 1999 VS Torpedo Kutaisi - 20:00 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21604918
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21607190
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", Estonia (w) VS Kosovo (w) - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21603235
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", Iberia 1999 VS Torpedo Kutaisi - 20:00 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21604918
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", Tosno 2 VS SSH Petrogradsky region Dinamo - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612796
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", CSKA Moscow VS Partizan Beograd - 20:00 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21599981
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", AS Fan VS Olympic Niamey - 19:45 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612632
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", Super Nova VS Auda Riga - 19:00 WIB 2025-07-01
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Novosibirsk VS Vladivostok - 20:55 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21599720
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", Spartak Anapa VS PSK Pervorechenskoe - 19:00 WIB 2025-07-01
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612992
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Ufa VS Stavropol - 20:10 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612318
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Soccer", KuPS Kuopio VS Gnistan - 19:00 WIB 2025-07-01
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612834
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Celtics VS Jazz - 20:55 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21599719
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Bull3 VS Cavs - 20:30 WIB 2025-07-01
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612993
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Timberwolves VS Raptors - 20:55 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612903
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Kings VS Pacers - 20:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612901
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612994
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Thalia U22 VS Instituto Viva Vida U22 - 20:30 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612042
@@ -155,21 +146,12 @@ https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21611233
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Skyforce VS Stars - 20:15 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612835
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Ufa VS Stavropol - 20:10 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612834
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Samara VS Kaliningrad - 20:00 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612804
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Gunners (Green) VS Knights (Yellow) - 20:00 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612670
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Turkey U20 VS Croatia U20 - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21610616
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Kaluga (w) VS Ivanovo (w) - 20:00 WIB 2025-07-01
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Gunners (Green) VS Knights (Yellow) - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612803
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612670
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Basketball", Dominican Republic (w) VS Brazil (w) - 19:40 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21609471
@@ -188,120 +170,114 @@ https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605919
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Snooker", Murphy S VS McGuigan R - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605918
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Aston Villa VS Brentford - 20:40 WIB 2025-07-01
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Ice Hockey", Apache East VS Dragons - 20:55 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612802
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Paris Saint-Germain VS Tottenham Hotspur - 20:40 WIB 2025-07-01
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21613001
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Ice Hockey", Steel Axes VS Skyhawks - 20:50 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612678
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", France (SPASGREY) VS Germany (JEKINHO) - 20:35 WIB 2025-07-01
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612957
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Ice Hockey", First flyers VS City devils - 20:45 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612931
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Fenerbahce (Steksy) VS Roma (Cevuu) - 20:33 WIB 2025-07-01
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612976
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Evgeniy Bielokon VS Valentyn Chumak - 20:55 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612930
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Man. United (Bolec) VS Eintracht (Peconi) - 20:33 WIB 2025-07-01
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612989
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Andrei Derevyanko VS Vitaly Maruschak S. - 20:50 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612929
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Italy (IVAnoffStyle) VS France (SKILLFROMGOD) - 20:30 WIB 2025-07-01
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612951
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Ondrej Mezera VS Ondrej Horak - 20:45 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612906
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612965
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Viktor Kodola VS Oleg Gil - 20:45 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612983
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Roman Gnoyevoy VS Alexander Naida - 20:45 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612954
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Oleksii Gazhula VS Mikhail Potapov - 20:35 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612926
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Andrey Dacenko VS Aleksandr Shkurupij - 20:30 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612870
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Alexey Sandakov VS Aleksandr Leonenko - 20:30 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612928
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Jakub Dufek Jr. VS Adam Dvoracek - 20:30 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612927
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Reznikov M VS Smyshnikov M - 20:50 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605579
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Vitaly Petrov VS Vyacheslav Mutu - 20:45 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612956
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Tikhnenko D VS Kovalev I - 20:35 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605578
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Petrov M VS Markelov E - 20:35 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605593
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Mukhamedzhanov M VS Krotkov A - 20:20 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612895
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Brighton (aguuero) VS Tottenham (Terza) - 20:53 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612987
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Porto VS Real Madrid - 20:50 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612816
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Bournemouth VS Nottingham Forest - 20:50 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612815
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", England (S_Slyus) VS Spain (GOSHANRUSHAN) - 20:46 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612964
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Fenerbahce (Steksy) VS Eintracht (Peconi) - 20:45 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612963
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberfootball", Tottenham (Boki) VS Roma (Cevuu) - 20:45 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612977
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberhockey", New Jersey (SNEGY) VS Buffalo (JASON_PLAY) - 20:50 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21613010
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberhockey", Tostogan (TDM) Carolina VS Motov (MOT) Colorado - 20:50 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612985
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberhockey", Buffalo (SAMURAI) VS Vegas (Lovelas) - 20:40 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612961
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberhockey", Anaheim (GREAT77) VS New Jersey (MASTER_ILY) - 20:35 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612948
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberbasketball", Minnesota (BUSHIDOBALLIN) VS Brooklyn (MAZURFAZUR1) - 20:50 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612996
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberbasketball", Denver (Kobe) VS Dallas (Jordan) - 20:30 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612947
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Badminton", Kwan E / Rymes J VS Tian Mengyao / Yang Lucy - 20:45 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612960
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Badminton", Ho Chloe / Ngo K VS Vang K / Werge M - 20:04 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605315
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Badminton", Chau Clarence / Wong Yan Kit VS Saputro R A / Wijaya G C W - 20:35 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605028
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Badminton", Huang Harry VS Roth F - 20:19 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612874
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Badminton", Ho Chloe / Ngo K VS Vang K / Werge M - 20:04 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605315
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Ruslan Serhyenko VS Alexey Korobov - 20:35 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612923
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Oleksii Gazhula VS Mikhail Potapov - 20:35 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612926
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Alexey Sandakov VS Aleksandr Leonenko - 20:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612928
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Mihail Levitskii VS Dmitry Yurkov - 20:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612875
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Jakub Dufek Jr. VS Adam Dvoracek - 20:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612927
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Andrey Dacenko VS Aleksandr Shkurupij - 20:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612870
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Anatolii Nikolenko VS Aleksandr Maslovskiy - 20:25 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612838
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Aleksey Krutko VS Oleksiy Shindel - 20:15 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612839
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Pavel Hala VS Adam Pavlik - 20:15 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612844
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Petrov M VS Markelov E - 20:35 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21605593
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Serghei Schiopu VS Sergey Kucherovskiy - 20:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612902
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Jezek M VS Zahradka M - 20:28 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21610635
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Cabis M VS Opralka R - 20:28 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612746
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Mukhamedzhanov M VS Krotkov A - 20:20 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612895
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Bogatov D VS Ivanov D - 20:20 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21607221
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Table Tennis", Lediaev E VS Barashkov O - 20:05 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612817
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Ice Hockey", Sheriff VS Rangers - 20:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612876
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Ice Hockey", Bad Company VS Wizards - 20:20 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612850
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Ice Hockey", Black angels VS Coyotes - 20:10 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612832
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberbasketball", Denver (Kobe) VS Dallas (Jordan) - 20:30 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612947
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberbasketball", Portland (Jovke) VS Minnesota (Bazuka) - 20:15 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612837
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberhockey", Detroit (NOCAP) VS Buffalo (JASON_PLAY) - 20:25 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612924
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberhockey", Buffalo (Beelas) VS Columbus (UsatejParez) - 20:25 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612905
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberhockey", Motov (MOT) Colorado VS Zvezdin (ZVZ) Dallas - 20:20 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612852
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cyberhockey", Vegas (Lovelas) VS Islanders (Iceman) - 20:15 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612836
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cybersport", Virtus.pro VS G2 Esports - 20:00 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612651
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cybersport", Imperial Esports VS Bounty Hunters - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612798
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cybersport", HGE Esports VS Barca eSports - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612829
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cybersport", Frostspire Alliance VS Yokara Kings - 19:06 WIB 2025-07-01
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cybersport", Virtus.pro VS G2 Esports - 20:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612454
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612651
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cybersport", eSpoiled VS Team Next Level - 19:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21611965
@@ -311,12 +287,6 @@ https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612333
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cybersport", Needus Gaming VS Team Miyuki - 18:56 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612302
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Volleyball", Dhivehi Sifainge VS Huraa - 19:25 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21612583
-#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Volleyball", Al Nasr (w) VS Wadi (w) - 18:55 WIB 2025-07-01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21610625
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cricket", BTCC Thundercats VS Helsinki Titans - 19:00 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21606200
@@ -341,3 +311,6 @@ https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21582669
 #EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Cricket", Chepauk Super Gillies VS IDream Tiruppur Tamizhans - 17:45 WIB 2025-07-01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21604631
+#EXTINF:-1 tvg-logo="https://mycentral.my.id/logo/CTV/ctvevents.jpg" group-title="CTV LIVE - Volleyball", Al Nasr (w) VS Wadi (w) - 18:55 WIB 2025-07-01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://mycentral.my.id/ctv999/EVTTTTT/lion/lionctv.m3u8?id=21610625
